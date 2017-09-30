@@ -1,0 +1,111 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.1.2263"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{3316DEDF-A469-419C-BFF4-91C92B40216F}"
+    >
+        <Build>
+            <Settings
+                AssemblyName = "Rage"
+                OutputType = "WinExe"
+                StartupObject = "Rage.Form1"
+                AssemblyMajorVersion = "1"
+                AssemblyMinorVersion = "1"
+                AssemblyRevisionNumber = "15"
+                GenerateRevisionNumber = "False"
+                AssemblyCompanyName = "Alternate Agendaz"
+                StartWithIE = "False"
+                ApplicationIcon = "Rage.ico"
+                RootNamespace = "Rage"
+            >
+                <Config
+                    Name = "Debug"
+                    DebugSymbols = "True"
+                    DefineDebug = "True"
+                    DefineTrace = "True"
+                    OutputPath = ".\bin\"
+                    DefineConstants = "Win32 = True"
+                    StartArguments = ""
+                />
+                <Config
+                    Name = "Release"
+                    DebugSymbols = "False"
+                    DefineDebug = "False"
+                    DefineTrace = "True"
+                    OutputPath = ".\bin\"
+                    DefineConstants = "Win32 = True"
+                    StartArguments = ""
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.XML"
+                />
+                <Reference
+                    Name = "Microsoft.VisualBasic.Compatibility"
+                    AssemblyName = "Microsoft.VisualBasic.Compatibility"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "Microsoft.VisualBasic.Compatibility" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "Reboot.vb"
+                    BuildAction = "Compile"
+                    SubType = "Code"
+                />
+                <File
+                    RelPath = "Rage.vb"
+                    BuildAction = "Compile"
+                    SubType = "Form"
+                />
+                <File
+                    RelPath = "Rage.resX"
+                    DependentUpon = "Rage.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Rage.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "_UpgradeReport.htm"
+                    BuildAction = "None"
+                    SubType = "Preview"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>

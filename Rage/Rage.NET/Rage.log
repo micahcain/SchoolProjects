@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "Rage.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "Rage"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "Rage.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "E:\Backup\Rage\Rage.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "E:\Backup\Rage\Rage.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "E:\Backup\Rage\Rage.frm"
+        NewPath = "E:\Backup\Rage\Rage.NET\Rage.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2064"
+                ObjectName = "Form1"
+                ObjectType = "Form"
+                PME = "Moveable"
+            >Form property Form1.Moveable was not upgraded.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Documents and Settings\Micah.WORLD-DLG562BWZ\My Documents\Visual Studio\Visual Basic\Reboot.bas"
+        NewPath = "E:\Backup\Rage\Rage.NET\Reboot.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    >
+        <Section Name = "GetVersionEx" >
+            <Issue
+                Type = "Runtime"
+                Number = "1050"
+            >Structure OSVERSIONINFO may require marshalling attributes to be passed as an argument in this Declare statement.</Issue>
+        </Section>
+        <Section Name = "FormatMessage" >
+            <Issue
+                Type = "Compile"
+                Number = "1016"
+            >Declaring a parameter 'As Any' is not supported.</Issue>
+        </Section>
+        <Section Name = "(Declarations)" >
+            <Issue
+                Type = "ToDo"
+                Number = "1026"
+            >&amp;quot;Initialize&amp;quot; must be called to initialize instances of this structure.</Issue>
+        </Section>
+        <Section Name = "GetTokenInformation" >
+            <Issue
+                Type = "Compile"
+                Number = "1016"
+            >Declaring a parameter 'As Any' is not supported.</Issue>
+        </Section>
+        <Section Name = "AdjustTokenPrivileges" >
+            <Issue
+                Type = "Runtime"
+                Number = "1050"
+            >Structure TOKEN_PRIVILEGES may require marshalling attributes to be passed as an argument in this Declare statement.</Issue>
+        </Section>
+        <Section Name = "LookupPrivilegeValue" >
+            <Issue
+                Type = "Runtime"
+                Number = "1050"
+            >Structure LUID may require marshalling attributes to be passed as an argument in this Declare statement.</Issue>
+        </Section>
+        <Section Name = "NTEnableShutDown" >
+            <Issue
+                Type = "Runtime"
+                Number = "1063"
+            >Arrays in structure tTP may need to be initialized before they can be used.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "1063"
+            >Arrays in structure tTPOld may need to be initialized before they can be used.</Issue>
+        </Section>
+    </File>
+</UpgradeLog>
+

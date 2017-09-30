@@ -1,0 +1,10 @@
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\bin\Debug\Three Dimensional Shapes.exe
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\bin\Debug\Three Dimensional Shapes.pdb
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\bin\Debug\Three Dimensional Shapes.xml
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\Three Dimensional Shapes.vbproj.GenerateResource.Cache
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\Three Dimensional Shapes.exe
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\Three Dimensional Shapes.xml
+C:\Users\dealtree\Documents\School\CIS248\Three Dimensional Shapes\Three Dimensional Shapes\Three Dimensional Shapes\obj\Debug\Three Dimensional Shapes.pdb

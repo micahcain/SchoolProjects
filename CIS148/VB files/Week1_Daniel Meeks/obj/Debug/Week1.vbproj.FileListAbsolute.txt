@@ -1,0 +1,10 @@
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\bin\Debug\Week1.exe
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\bin\Debug\Week1.pdb
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\bin\Debug\Week1.xml
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.frmColors.resources
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.Resources.resources
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.exe
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.xml
+C:\Documents and Settings\Daniel\Local Settings\Application Data\Temporary Projects\Week1\obj\Debug\Week1.pdb

@@ -1,0 +1,9 @@
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\CIS148\Ch4HandsOn\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

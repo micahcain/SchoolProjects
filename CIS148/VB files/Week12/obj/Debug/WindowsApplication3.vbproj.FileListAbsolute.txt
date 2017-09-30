@@ -1,0 +1,20 @@
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Documents and Settings\Daniel\Desktop\VB files\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication3.exe
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication3.xml
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication3.pdb
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\bin\Debug\WindowsApplication3.exe
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\bin\Debug\WindowsApplication3.pdb
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\bin\Debug\WindowsApplication3.xml
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dealtree\Documents\School\CIS148\VB files\Week12\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache

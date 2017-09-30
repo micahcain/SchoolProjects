@@ -1,0 +1,22 @@
+male(alex).
+male(bob).
+male(charles).
+male(david).
+male(ed).
+female(robin).
+female(sue).
+female(tess).
+female(ursula).
+female(vanessa).
+parent(alex, robin).
+parent(sue, bob).
+parent(charles, tess).
+parent(ursula, david).
+parent(ed, vanessa).
+parent(bob, ursula).
+parent(vanessa, robin).
+
+father(X, Y) :- male(X), parent(X, Y).
+mother(X, Y) :- female(X), parent(X, Y).
+grandfather(X, Y) :- father(X, Z), parent(Z, Y).
+grandmother(X, Y) :- mother(X, Z), parent(Z, Y).

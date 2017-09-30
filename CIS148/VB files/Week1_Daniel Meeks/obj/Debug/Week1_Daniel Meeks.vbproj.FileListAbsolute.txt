@@ -1,0 +1,10 @@
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\bin\Debug\Week1_Daniel Meeks.exe
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\bin\Debug\Week1_Daniel Meeks.pdb
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\bin\Debug\Week1_Daniel Meeks.xml
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1.frmColorsTextBox.resources
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1.Resources.resources
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1_Daniel Meeks.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1_Daniel Meeks.exe
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1_Daniel Meeks.xml
+C:\Documents and Settings\Daniel\Desktop\VB files\Week1_Daniel Meeks\obj\Debug\Week1_Daniel Meeks.pdb

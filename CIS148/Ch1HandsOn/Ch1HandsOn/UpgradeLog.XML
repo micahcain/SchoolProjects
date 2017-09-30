@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ch1HandsOn">
+</Property><Property Name="Solution File" Value="C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Ch1HandsOn.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Ch1HandsOn.suo">
+</Property><Property Name="Date" Value="Tuesday, August 23, 2011">
+</Property><Property Name="Time" Value="13:49 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ch1HandsOn.sln" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\Ch1HandsOn.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ch1HandsOn.suo" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\Ch1HandsOn.suo">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj" Description="Project file successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\Ch1HandsOn.vbproj">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj.user" Description="Project user file successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\Ch1HandsOn.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="MainForm.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\MainForm.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="MainForm.Designer.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\MainForm.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Application.myapp" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Settings.settings" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="MainForm.resx" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="My Project\Resources.resx" Description="File successfully backed up as C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ch1HandsOn.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ch1HandsOn.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Ch1HandsOn" Source="Ch1HandsOn.vbproj" Description="References to Microsoft.VisualBasic.PowerPacks.Vs were updated to Microsoft.VisualBasic.PowerPacks.Vs 10.0.">
+</Event></UpgradeLog>

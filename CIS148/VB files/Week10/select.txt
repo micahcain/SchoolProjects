@@ -1,0 +1,10 @@
+   Select Case matches
+      Case matches - 3 = 1
+        matches = matches - 3
+      Case matches - 2 = 1
+        matches = matches - 2
+      Case matches - 1 = 1
+        matches = matches - 1
+      Case Else
+        matches = matches - 3
+    End Select

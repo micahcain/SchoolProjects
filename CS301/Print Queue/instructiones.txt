@@ -1,0 +1,52 @@
+Implement a virtual print queue. A single print queue is servicing a single printer.  Print requests appear periodically and print jobs can take more than one cycle on the printer to complete printing.  Attached is a file which has four types of input records:
+
+q,3,10 is a q type record which indicates that a print job, # 3, shall be placed at the rear of the queue and print for 10 cycles when it is removed from the front of the queue and prints.
+
+p,4,5 is a p type record which indicates that a prioritized print job, # 4, shall be placed at the front of the queue and execute for 5 cycles when it is removed from the front of the queue and prints.
+
+s,5 is an s type record which indicates that 5 cycles should be executed before the next input record is examined.
+
+h is an h type record which indicates to halt execution of the simulation and print out the executing print job number, the number of cycles left to execute and the remaining print queue numbers and cycles in order of execution from last to first.
+
+A print job will decrement the number of remaining cycles at the start of a new cycle.  When a job finishes (the number of remaining cycles reaches 0), a new job should be loaded on the same cycle. You must implement the queue insert and remove methods as described in the text. You must also implement a priority insert method which inserts a prioritized print job at the beginning of the queue. You must implement a stack with the push and pop methods to print the remaining queue numbers and cycles for the halt.
+
+
+
+
+
+
+
+
+
+Integer stopCycles = 0, jobCycles = 0;
+	String jobType = null, currentJob = null, jobNumber = null;
+	StringTokenizer token;
+	Queue<String> printer = new LinkedList<String>();
+	while (stopCycles == 0)
+	{
+		for(int i = 0; i < queue.length; i++)
+		{		
+			currentJob = queue[i];
+			token = new StringTokenizer(currentJob, ",");
+			jobType = token.nextToken();
+			
+			if (jobType.contains("h"))
+				break;
+			else if (jobType.contains("q") && jobCycles == 0)
+				{
+					jobNumber = token.nextToken();
+					jobCycles = jobCycles + Integer.parseInt(token.nextToken());
+				}
+			else if (jobType.contains("s") && jobCycles == 0)
+				{
+					stopCycles = stopCycles + Integer.parseInt(token.nextToken());
+					System.out.println(stopCycles);
+				}
+			else if (jobType.contains("p"))
+				{
+					
+				}
+				System.out.println("The current job has " + jobCycles + "cycles remaining.");
+				jobCycles--;
+		}
+	}

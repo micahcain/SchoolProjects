@@ -1,0 +1,10 @@
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\bin\Release\WindowsApplication1.exe
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\bin\Release\WindowsApplication1.xml
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.exe
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.xml
+G:\CIS148\Ch3HandsOn\R 'n R--For Reading and Refreshment\WindowsApplication1\obj\Release\WindowsApplication1.pdb

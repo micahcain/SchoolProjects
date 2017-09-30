@@ -1,0 +1,10 @@
+bin\Debug\Globe Trotting Project.exe
+bin\Debug\Globe Trotting Project.pdb
+bin\Debug\Globe Trotting Project.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Globe_Trotting_Project.MainForm.resources
+obj\Debug\Globe_Trotting_Project.Resources.resources
+obj\Debug\Globe Trotting Project.vbproj.GenerateResource.Cache
+obj\Debug\Globe Trotting Project.exe
+obj\Debug\Globe Trotting Project.xml
+obj\Debug\Globe Trotting Project.pdb

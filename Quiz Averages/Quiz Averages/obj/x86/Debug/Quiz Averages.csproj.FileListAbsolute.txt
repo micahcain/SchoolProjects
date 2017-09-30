@@ -1,0 +1,5 @@
+c:\users\micah\documents\visual studio 2010\Projects\Quiz Averages\Quiz Averages\bin\Debug\Quiz Averages.exe
+c:\users\micah\documents\visual studio 2010\Projects\Quiz Averages\Quiz Averages\bin\Debug\Quiz Averages.pdb
+c:\users\micah\documents\visual studio 2010\Projects\Quiz Averages\Quiz Averages\obj\x86\Debug\Quiz Averages.csprojResolveAssemblyReference.cache
+c:\users\micah\documents\visual studio 2010\Projects\Quiz Averages\Quiz Averages\obj\x86\Debug\Quiz Averages.exe
+c:\users\micah\documents\visual studio 2010\Projects\Quiz Averages\Quiz Averages\obj\x86\Debug\Quiz Averages.pdb

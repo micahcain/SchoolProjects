@@ -1,0 +1,3 @@
+C:\Users\dealtree\Documents\School\CIS248\2.4 Globe Trotting Solution\Globe Trotting Project\obj\Debug\Globe Trotting Project.exe
+C:\Users\dealtree\Documents\School\CIS248\2.4 Globe Trotting Solution\Globe Trotting Project\obj\Debug\Globe Trotting Project.xml
+C:\Users\dealtree\Documents\School\CIS248\2.4 Globe Trotting Solution\Globe Trotting Project\obj\Debug\Globe Trotting Project.pdb

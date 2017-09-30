@@ -1,0 +1,7 @@
+As a review from VB1, you should complete Computer Exercise #5 on p. 78.
+
+As a reminder, you must compress (please use .zip compression) the entire program.  This is the .sln file and all of the support files that are in the folder.  If you don't submit the entire program I cannot grade and will let you know you need to resubmit.  If you need a reminder, the video folder has a video showing you how to create and submit a program.
+
+Please let me know if you have any questions about this assignment.
+
+*NOTE: There is one button that is to be pressed to generate each number.

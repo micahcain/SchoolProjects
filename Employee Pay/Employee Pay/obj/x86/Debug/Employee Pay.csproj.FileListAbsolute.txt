@@ -1,0 +1,5 @@
+c:\users\micah\documents\visual studio 2010\Projects\Employee Pay\Employee Pay\obj\x86\Debug\Employee Pay.csprojResolveAssemblyReference.cache
+c:\users\micah\documents\visual studio 2010\Projects\Employee Pay\Employee Pay\bin\Debug\Employee Pay.exe
+c:\users\micah\documents\visual studio 2010\Projects\Employee Pay\Employee Pay\bin\Debug\Employee Pay.pdb
+c:\users\micah\documents\visual studio 2010\Projects\Employee Pay\Employee Pay\obj\x86\Debug\Employee Pay.exe
+c:\users\micah\documents\visual studio 2010\Projects\Employee Pay\Employee Pay\obj\x86\Debug\Employee Pay.pdb

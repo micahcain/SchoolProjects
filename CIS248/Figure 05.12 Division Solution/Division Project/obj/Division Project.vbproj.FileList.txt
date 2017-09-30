@@ -1,0 +1,10 @@
+bin\Debug\Division Project.exe
+bin\Debug\Division Project.pdb
+bin\Debug\Division Project.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Division_Project.MainForm.resources
+obj\Debug\Division_Project.Resources.resources
+obj\Debug\Division Project.vbproj.GenerateResource.Cache
+obj\Debug\Division Project.exe
+obj\Debug\Division Project.xml
+obj\Debug\Division Project.pdb

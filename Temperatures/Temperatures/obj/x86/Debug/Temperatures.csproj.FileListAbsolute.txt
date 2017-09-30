@@ -1,0 +1,5 @@
+c:\users\micah\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.csprojResolveAssemblyReference.cache
+c:\users\micah\documents\visual studio 2010\Projects\Temperatures\Temperatures\bin\Debug\Temperatures.exe
+c:\users\micah\documents\visual studio 2010\Projects\Temperatures\Temperatures\bin\Debug\Temperatures.pdb
+c:\users\micah\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.exe
+c:\users\micah\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.pdb

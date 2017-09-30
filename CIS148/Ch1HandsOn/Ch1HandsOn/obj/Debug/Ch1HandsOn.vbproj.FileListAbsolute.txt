@@ -1,0 +1,11 @@
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\bin\Debug\Ch1HandsOn.exe
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\bin\Debug\Ch1HandsOn.pdb
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\bin\Debug\Ch1HandsOn.xml
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\ResGen.read.1.tlog
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\ResGen.write.1.tlog
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\Ch1HandsOn.exe
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\Ch1HandsOn.xml
+C:\Users\Micah\Documents\CIS148\Ch1HandsOn\Ch1HandsOn\obj\Debug\Ch1HandsOn.pdb

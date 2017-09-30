@@ -1,0 +1,10 @@
+t:\visual studio 2010\Projects\IntsAndFloats\IntsAndFloats\bin\Debug\IntsAndFloats.exe
+t:\visual studio 2010\Projects\IntsAndFloats\IntsAndFloats\bin\Debug\IntsAndFloats.pdb
+t:\visual studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\ResolveAssemblyReference.cache
+t:\visual studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\IntsAndFloats.exe
+t:\visual studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\IntsAndFloats.pdb
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\IntsAndFloats.pdb
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\IntsAndFloats\IntsAndFloats\bin\Debug\IntsAndFloats.exe
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\IntsAndFloats\IntsAndFloats\bin\Debug\IntsAndFloats.pdb
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\IntsAndFloats.csprojResolveAssemblyReference.cache
+C:\Users\Micah\Documents\Visual Studio 2010\Projects\IntsAndFloats\IntsAndFloats\obj\x86\Debug\IntsAndFloats.exe

@@ -1,0 +1,12 @@
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\bin\Debug\Type-It.exe
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\bin\Debug\Type-It.pdb
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\bin\Debug\Type-It.xml
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type_It.Form1.resources
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type_It.Resources.resources
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type-It.vbproj.GenerateResource.Cache
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type-It.exe
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type-It.xml
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type-It.pdb
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type_It.MdiChildForm.resources
+C:\Users\dealtree\Documents\School\CIS248\Type-It\Type-It\Type-It\obj\Debug\Type_It.AboutBox1.resources
