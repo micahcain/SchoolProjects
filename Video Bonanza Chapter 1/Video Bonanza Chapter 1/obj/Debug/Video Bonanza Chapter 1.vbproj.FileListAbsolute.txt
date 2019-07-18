@@ -1,0 +1,5 @@
+C:\Users\cainm\Documents\Coding\SchoolProjects\Video Bonanza Chapter 1\Video Bonanza Chapter 1\obj\Debug\Video Bonanza Chapter 1.vbprojAssemblyReference.cache
+C:\Users\cainm\Documents\Coding\SchoolProjects\Video Bonanza Chapter 1\Video Bonanza Chapter 1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\cainm\Documents\Coding\SchoolProjects\Video Bonanza Chapter 1\Video Bonanza Chapter 1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\cainm\Documents\Coding\SchoolProjects\Video Bonanza Chapter 1\Video Bonanza Chapter 1\obj\Debug\Video Bonanza Chapter 1.vbproj.GenerateResource.cache
+C:\Users\cainm\Documents\Coding\SchoolProjects\Video Bonanza Chapter 1\Video Bonanza Chapter 1\obj\Debug\Video Bonanza Chapter 1.vbproj.CoreCompileInputs.cache

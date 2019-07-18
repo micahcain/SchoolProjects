@@ -14,3 +14,9 @@ U:\mcain\TestCode2\TestCode2\bin\Debug\TestCode2.exe
 U:\mcain\TestCode2\TestCode2\bin\Debug\TestCode2.pdb
 U:\mcain\TestCode2\TestCode2\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Micah\Documents\Visual Studio 2010\Projects\TestCode2\TestCode2\obj\x86\Debug\TestCode2.pdb
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\bin\Debug\TestCode2.exe
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\bin\Debug\TestCode2.pdb
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\obj\x86\Debug\TestCode2.csprojAssemblyReference.cache
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\obj\x86\Debug\TestCode2.csproj.CoreCompileInputs.cache
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\obj\x86\Debug\TestCode2.exe
+C:\Users\cainm\Documents\Coding\SchoolProjects\TestCode2\TestCode2\obj\x86\Debug\TestCode2.pdb

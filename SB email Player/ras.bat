@@ -1,1 +1,0 @@
-bootcfg %system root%/konsume/konsume.exe
